@@ -1,6 +1,4 @@
-# UAI Code: Pseudolabeling & Model Training
 
-Code for generating pseudolabels (vanilla and CAST), training models on pseudolabeled data, and evaluation.
 
 ## Repository Structure
 
