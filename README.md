@@ -1,5 +1,5 @@
 
-Find the dataset generated here -- https://github.com/eddyliu5/texr-dataset-lookup 
+Find the datasets generated in TEXR here -- It includes 36,115 synthetic tabular datasets from TEXR and 2,096 records from the OpenTabs release used in our experiments. -- https://github.com/eddyliu5/texr-dataset-lookup 
 ## Repository Structure
 
 ```
